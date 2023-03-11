@@ -5,17 +5,18 @@
 }
 
 header {
-    padding: 10px;
+    padding: 20px;
     text-align: center;
+    background-color: darkgray
 }
 
 a {
     color: white;
     text-decoration: none;
-    padding-right: 10px;
+    padding-right: 15px;
 }
 
 a:hover {
-    color: blue;
+    color: black;
     font-weight: bold;
 }
